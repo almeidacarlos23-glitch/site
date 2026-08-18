@@ -1,0 +1,39 @@
+div{
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow:0 4px 24px  #000000;
+    max-width: 360px;
+    border: 2px solid #090202;
+    display: center;
+    align-items: center;
+}
+#como{background-color: #4CAF50;
+      padding: 12px 28px;
+      font-size: 16px;
+      font-weight: 600;
+      color: #ffffff;
+      border: none;
+      border-radius: 9999px; /* Botão estilo pílula */
+      cursor: pointer;
+      transition: background-color 0.3s, transform 0.3s;
+}
+#como:hover{
+    background-color: #349ab6;
+}   
+#como:hover{
+    transform: scale(1.05); /* Aumenta o tamanho do botão em 5% */
+}
+h1{
+    color: #e51414;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+body{
+    background-color: #ed0909ce;
+    margin: 100;
+    padding: 100;
+    align-items: center;
+    display: center;
+} 
