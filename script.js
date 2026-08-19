@@ -6,4 +6,4 @@ botão.addEventListener('click', function() {
 
     titulo.textContent = "Comparativo: GTA 6 x read dead 2";
     texto.textContent = ("o GTA 6 é um dos jogos mais agurdados da historia. Agora podemos comparar sua pré venda com outro grandande lançamento")
-
+})
