@@ -35,5 +35,21 @@ body{
     margin: 100;
     padding: 100;
     align-items: center;
+#como{background-color: #4CAF50;
+      padding: 12px 28px;
+      font-size: 16px;
+      font-weight: 600;
+      color: #ffffff;
+      border: none;
+      border-radius: 9999px; /* Botão estilo pílula */
+      cursor: pointer;
+      transition: background-color 0.3s, transform 0.3s;
+}
+#info:hover{
+    background-color: #349ab6;
+}   
+#info:hover{
+    transform: scale(1.05); /* Aumenta o tamanho do botão em 5% */
+}
     display: center;
 } 
